@@ -6,12 +6,15 @@
 - **Shift Asal:** C
 
 ## Video Demo Aplikasi
-![Demo Video - Inventaris Buku H1D023019]()**
+| Demo Apk      |
+|--------------------------|
+|![demo](assets/demo.gif)|
 
 ## Deskripsi Aplikasi
 Aplikasi mobile berbasis Flutter yang terhubung dengan REST API CodeIgniter 4 untuk mengelola inventaris buku. Aplikasi ini memungkinkan pengguna untuk melakukan operasi CRUD pada data buku dengan fitur autentikasi.
 
 ## Struktur Proyek
+```
 PROYEK_RESPONSI_2/
 ├── responsi_2_mobile_paket_3_H1D023019/     # Flutter Application
 │   ├── lib/
@@ -57,6 +60,7 @@ PROYEK_RESPONSI_2/
 │   └── composer.json
 │
 └── README.md            # Dokumentasi Utama 
+```
 
 ## Spesifikasi API
 
